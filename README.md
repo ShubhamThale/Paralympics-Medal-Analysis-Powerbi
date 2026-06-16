@@ -68,5 +68,4 @@ Documentation/
 ---
 
 ## Author
-Your Name
 Shubham Thale
